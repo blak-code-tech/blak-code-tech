@@ -54,8 +54,9 @@ Digital hymnal platform built for accessibility and global reach.
 - **Queues:** BullMQ + Redis  
 - **Storage:** Backblaze B2 (S3-compatible)  
 - **Media Processing:** FFmpeg, Sharp  
+- **Testing:** Playwright, Jest  
 - **Auth & Payments:** Clerk, Paystack, Stripe, Polar  
-- **Infra:** Docker, Coolify, Cloudflare  
+- **Infra:** Docker, Coolify, Cloudflare   
 
 ---
 
